@@ -20,12 +20,18 @@ e-commerce orders across 9 relational tables.
 - 6.7% late delivery rate represents $1.2M+ revenue at churn risk
 - Repeat customer rate under 3% — significant retention opportunity
 
-## How to Run
-1. Download dataset from Kaggle (link above)
-2. Run `schema/create_tables.sql` in MySQL Workbench
-3. Load CSVs using `LOAD DATA LOCAL INFILE`
-4. Run analysis scripts in `/analysis` folder in order
-
 ## Dashboard
 Power BI dashboard covering executive overview, customer segmentation,
 seller performance, and delivery analysis. 
+
+### Executive Overview
+![Executive Overview](dashboard/dashboard_page1_executive_overview.png)
+
+### Customer Analysis
+![Customer Analysis](dashboard/dashboard_page2_customer_analysis.png)
+
+### Seller Performance
+![Seller Performance](dashboard/dashboard_page3_seller_performance.png)
+
+### Delivery Performance
+![Delivery Performance](dashboard/dashboard_page4_delivery_performance.png)

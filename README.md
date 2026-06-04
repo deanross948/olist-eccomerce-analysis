@@ -25,13 +25,13 @@ Power BI dashboard covering executive overview, customer segmentation,
 seller performance, and delivery analysis. 
 
 ### Executive Overview
-![Executive Overview](dashboard/dashboard_page1_executive_overview.png)
+![Executive Overview](dashboard/page1_executive_overview.png)
 
 ### Customer Analysis
-![Customer Analysis](dashboard/dashboard_page2_customer_analysis.png)
+![Customer Analysis](dashboard/page2_customer_analysis.png)
 
 ### Seller Performance
-![Seller Performance](dashboard/dashboard_page3_seller_performance.png)
+![Seller Performance](dashboard/page3_seller_performance.png)
 
 ### Delivery Performance
-![Delivery Performance](dashboard/dashboard_page4_delivery_performance.png)
+![Delivery Performance](dashboard/page4_delivery_performance.png)

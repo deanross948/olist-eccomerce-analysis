@@ -1,7 +1,7 @@
 # Olist E-Commerce Analytics
 
 Customer and revenue analytics project built on 100,000+ real Brazilian 
-e-commerce orders across 9 relational tables.
+e-commerce orders across 9 relational tables. *DASHBOARD PREVIEW BELOW*
 
 ## Tools
 - MySQL / MySQL Workbench
@@ -17,8 +17,8 @@ e-commerce orders across 9 relational tables.
 ## Key Findings
 - 91.9% of orders arrived early — indicating systematic estimate padding
 - Only 5.7% of customers qualify as high-value (>$500 lifetime spend)
-- 6.7% late delivery rate represents $1.2M+ revenue at churn risk
-- Repeat customer rate under 3% — significant retention opportunity
+- 8.11% late delivery rate represents $1.49M+ revenue at churn risk
+- Repeat customer rate just over 3% — significant retention opportunity
 
 ## Dashboard
 Power BI dashboard covering executive overview, customer segmentation,

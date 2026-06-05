@@ -1,7 +1,21 @@
 # Olist E-Commerce Analytics
 
 Customer and revenue analytics project built on 100,000+ real Brazilian 
-e-commerce orders across 9 relational tables. *DASHBOARD PREVIEW BELOW*
+e-commerce orders across 9 relational tables. 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard/page1_executive_overview.png)
+
+### Customer Analysis
+![Customer Analysis](dashboard/page2_customer_analysis.png)
+
+### Seller Performance
+![Seller Performance](dashboard/page3_seller_performance.png)
+
+### Delivery Performance
+![Delivery Performance](dashboard/page4_delivery_performance.png)
 
 ## Tools
 - MySQL / MySQL Workbench
@@ -20,18 +34,4 @@ e-commerce orders across 9 relational tables. *DASHBOARD PREVIEW BELOW*
 - 8.11% late delivery rate represents $1.49M+ revenue at churn risk
 - Repeat customer rate just over 3% — significant retention opportunity
 
-## Dashboard
-Power BI dashboard covering executive overview, customer segmentation,
-seller performance, and delivery analysis. 
 
-### Executive Overview
-![Executive Overview](dashboard/page1_executive_overview.png)
-
-### Customer Analysis
-![Customer Analysis](dashboard/page2_customer_analysis.png)
-
-### Seller Performance
-![Seller Performance](dashboard/page3_seller_performance.png)
-
-### Delivery Performance
-![Delivery Performance](dashboard/page4_delivery_performance.png)
